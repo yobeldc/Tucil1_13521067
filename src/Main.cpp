@@ -230,7 +230,7 @@ void permutify(vector<string> &vec, int l, int r) {
                         double result = evalify(parentheses);
                         if (result == 24) {
                             theSolution.push_back(parentheses);
-                            countify++;
+                            countify += 1;
                         }
                     }
 
