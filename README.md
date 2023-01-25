@@ -17,9 +17,9 @@ hasil 24.</p>
 
 
 ## **Cara menjalankan program**
-`$ git clone https://github.com/yobeldc/Tucil1_13521067.git `
-`$ g++ -o bin\Main.exe src\Main.cpp`
-`$ ./bin/Main`
+- `$ git clone https://github.com/yobeldc/Tucil1_13521067.git `
+- `$ g++ -o bin\Main.exe src\Main.cpp`
+- `$ ./bin/Main`
 
 ## **Author**
 Yobel Dean Christopher - 13521067
